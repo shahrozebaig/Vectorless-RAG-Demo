@@ -41,6 +41,5 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-Project specific (uncomment if you want to ignore these directories)
 outputs/
 data/
