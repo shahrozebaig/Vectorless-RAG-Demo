@@ -1,0 +1,35 @@
+In this chapter, you have studied the following points:
+1. Polynomials of degrees 1, 2 and 3 are called linear, quadratic and cubic polynomials
+respectively.
+2. A quadratic polynomial in x with real coefficients is of the form ax2 + bx + c, where a, b, c
+are real numbers with a  0.
+3. The zeroes of a polynomial p(x) are precisely the x-coordinates of the points, where the
+graph of y = p(x) intersects the x-axis.
+4. A quadratic polynomial can have at most 2 zeroes and a cubic polynomial can have
+at most 3 zeroes.
+5. If  and  are the zeroes of the quadratic polynomial ax2 + bx + c, then
+b
+a
+
+,
+c
+a
+
+.
+6. If , ,  are the zeroes of the cubic polynomial ax3 + bx2 + cx + d, then
+b
+a
+
+
+,
+c
+a
+
+,
+and
+d
+a
+
+
+.
+Reprint 2026-27

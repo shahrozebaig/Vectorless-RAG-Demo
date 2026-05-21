@@ -1,0 +1,10 @@
+ncert
+│
+│   ├── 2.1 Introduction
+├── 3 and
+│   ├── 2.2 Geometrical Meaning of the Zeroes of a Polynomial
+│   ├── 2.3 Relationship between Zeroes and Coefficients of a Polynomial
+├── 2 , 3
+├── 1 ,
+├── 4 
+│   ├── 2.4 Summary
